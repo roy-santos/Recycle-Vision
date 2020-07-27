@@ -11,6 +11,7 @@ Heroku app can be found here: http://recycle-vision.herokuapp.com/
 ### Features
 * Uses transfer learning to create a model to solve a particular classification problem.
 * Flask and Heroku use for quick and simple deployment.
+* Google Colab used in order to leverage Google's hardware for faster model creation and training.
 
 ### Project Takeaways
 **Fundamental Data Science/ ML Skills**: Analyzing data, feature engineering, preprocessing data for training, fitting the model, hypertuning the model and using the model to create a simple flask application.
