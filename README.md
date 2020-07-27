@@ -2,6 +2,7 @@
 Image Classification Model for recyclable waste images built with Python, Google Colab, Fast.AI deep learning framework, Flask, and Heroku.
 <br><br>
 Heroku app can be found here: http://recycle-vision.herokuapp.com/
+   * Note: The web application can only accept image files under 1mb due to restrictions of the Heroku deployment platform.
 ### Installation
 1. Clone the repository with either the HTTPS link or by downloading the zip file.
 2. Once you have the contents of the repository in your IDE, install the python packages in the requirements.txt file
