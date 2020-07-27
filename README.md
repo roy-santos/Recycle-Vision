@@ -15,3 +15,10 @@ Heroku app can be found here: http://recycle-vision.herokuapp.com/
 
 ### Project Takeaways
 **Fundamental Data Science/ ML Skills**: Analyzing data, feature engineering, preprocessing data for training, fitting the model, hypertuning the model and using the model to create a simple flask application.
+
+### Images
+**Main Screen of Application**:<br>
+<img src="static/images/MainScreen.png" width=300 align=center>
+<br><br>
+**Classifcation Results**:<br>
+<img src="static/images/Prediction.png" width=300 align=center>
