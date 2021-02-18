@@ -1,6 +1,7 @@
 # recycle-vision
 Image Classification Model for recyclable waste images. The application accepts user uploaded images of different household waste items and classifies them under 
-the following categories: cardboard, glass, metal, paper, plastic, or trash. Built with Python, Google Colab (cloud-based Jupyter notebook environment), 
+the following categories: cardboard, glass, metal, paper, plastic, or trash. Built with Python, Python ML libraries (Pandas, NumPy, Matplotlib, scikit-learn), 
+Google Colab (cloud-based Jupyter notebook environment), 
 Fast.AI deep learning framework, Flask (web framework), and Heroku for deployment.
 <br><br>
 Heroku app can be found here: http://recycle-vision.herokuapp.com/
